@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "shoe",
+      "company": "adidas",
+      "quantity": 4,
+      "sizes": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "price": 180,
+      "name" : "Adidas UltraBoost 4.0",
+      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/aa7db3f0226c4cd884faac2800739303_9366/Ultraboost_DNA_X_PE_Mid_Shoes_Red_FZ5491_01_standard.jpg"
+    },
+    {
+      "id": 2,
+      "type": "shirt",
+      "company": "nike",
+      "quantity": 320,
+      "sizes": ["S", "M", "L", "XL"],
+      "price": 35,
+      "name": "Nike Golf Polo",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/4f34c714-e992-4ff0-acc5-0fac16004d1b/dri-fit-victory-mens-golf-polo-WcN5Mz.jpg"
+    },
+    {
+      "id": 3,
+      "type": "shoe",
+      "company": "adidas",
+      "quantity": 12,
+      "sizes": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "price": 200,
+      "name" : "Ultra 4D 5.0 Shoes",
+      "imageUrl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/d90117daae3f4d74afa2ac78011da87f_9366/Ultra_4D_5.0_Shoes_Black_G58158_01_standard.jpg"
+    },
+    {
+      "id": 4,
+      "type": "jacket",
+      "company" : "under armour",
+      "quantity" : 400,
+      "sizes": ["S", "M", "L", "XL"],
+      "price" : 150,
+      "name" : "Under Armour Wind Breaker",
+      "imageUrl": "https://underarmour.scene7.com/is/image/Underarmour/PS1356170-001_HF?rp=standard-0pad|pdpZoomDesktop&scl=0.72&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=1500,1500"
+    },
+    {
+      "id": 5,
+      "type": "shoe",
+      "company" : "nike",
+      "quantity" : 2,
+      "sizes": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "price" : 150,
+      "name" : "Nike Mercurial Superfly",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/4a407a74-4a57-4c82-8348-ad7c58c2698d/mercurial-superfly-7-pro-fg-firm-ground-soccer-cleat-64fNV6.jpg"
+    },
+    {
+      "id": 6,
+      "type": "shoe",
+      "company" : "adidas",
+      "quantity" : 8,
+      "sizes": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "price" : 120,
+      "name" : "Dame 7 Ric Flair",
+      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/c55be2ff797f49e6a9f9ac430135ddbe_9366/Dame_7_x_Ric_Flair_Shoes_White_FX6616_01_standard.jpg"
+    },
+    {
+      "id": 7,
+      "type": "jacket",
+      "company" : "adidas",
+      "quantity" : 19,
+      "sizes": ["S", "M", "L", "XL"],
+      "price" : 60,
+      "name" : "3-Stripe Hoodie",
+      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/397e52168d86426a88f1a97700fee875_9366/Essentials_3-Stripes_Fleece_Hoodie_Grey_DU0476_01_laydown.jpg"
+    }
+
+
+
+
+
+  ]
+}
